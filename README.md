@@ -1,0 +1,2 @@
+# domaintakeover
+subdomain takeover test
